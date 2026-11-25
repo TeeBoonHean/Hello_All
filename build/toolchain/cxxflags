@@ -1,0 +1,8 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/Tee Boon Hean/Documents/9. Projects/HELLO_ALL/build/specs/picolibc.specs"
+-D__PICOLIBC_ERRNO_FUNCTION=__errno
+-fno-rtti
