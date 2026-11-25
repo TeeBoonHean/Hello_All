@@ -21,6 +21,26 @@ Degree: Mechanical Engineering
 
 This is a place for me to post all the projects I have been working on. These documentation are everything I have learned and built. There are three parts to this: begginner project, intermediate projects and advanced projects. In each section, there is the codes that I have used, images of the digital circuit built on TINKERCAD as well as images and recordings of the physical circuit. 
 
+
+# Things to Learn
+1. Git for version control
+2. Embedded C + ESP-IDF
+3. KiCad for schematic Drawing
+
+# Sources
+1. ESP 32 Datasheet
+   https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+2. ESP-IDF Official GitHub
+   https://github.com/espressif/idf-extra-components/blob/master/README.md
+3. ESP-IDF Official Documentation
+   https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html
+4. Youtube Channels (These are really good!)
+   Introduction to C Programming: https://youtube.com/playlist?list=PLUQpHm_JtukKo2fvS9d8hqc7n1dgAyXBN&si=4zlKGWwrDhsE15Mi
+   Introduction to Embedded C: https://youtube.com/playlist?list=PLUQpHm_JtukII_8U9pucV61MX2YE2CSUt&si=OJNBDXmL5ekSrunc
+5. Mr.Chatgpt
+6. GitHub For Embedded Systems
+   https://github.com/m3y54m/Embedded-Engineering-Roadmap/blob/master/README.md
+
 # Beginner Projects
 This is a collection of beginner programming projects tthat helped me get started.
 ## Projects
